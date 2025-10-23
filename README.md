@@ -117,38 +117,33 @@ frontend/
 ## Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](./screenshorts/dashboard-overview.png)
-![Dashboard Overview](./screenshorts/dashboard-overview1.png)
-![Dashboard Overview](./screenshorts/dashboard-overview2.png)
+![Dashboard Overview](../Expense-Tracker/frontend/screenshorts/dashboard-overview.png)
+![Dashboard Overview](../Expense-Tracker/frontend/screenshorts/dashboard-overview1.png)
+![Dashboard Overview](../Expense-Tracker/frontend/screenshorts/dashboard-overview2.png)
 
 ### All Income
-![All Income](./screenshorts/incomeTransactions.png)
+![All Income](../Expense-Tracker/frontend/screenshorts/incomeTransactions.png)
 
 ### Income Chart
-![Income Chart](./screenshorts/incomeChart.png)
+![Income Chart](../Expense-Tracker/frontend/screenshorts/incomeChart.png)
 
 ### Add Income
-![Add Income](./screenshorts/addIncome.png)
+![Add Income](../Expense-Tracker/frontend/screenshorts/addIncome.png)
 
 ### All Expenses
-![All Expenses](./screenshorts/expenseTransaction.png)
+![All Expenses](../Expense-Tracker/frontend/screenshorts/expenseTransaction.png)
 
 ### Expenses Chart
-![Expenses Chart](./screenshorts/expenseChart.png)
+![Expenses Chart](../Expense-Tracker/frontend/screenshorts/expenseChart.png)
 
 ### Add Expenses
-![Add Expenses](./screenshorts/addExpense.png)
+![Add Expenses](../Expense-Tracker/frontend/screenshorts/addExpense.png)
 
 ### Login Page
-![Login Page](./screenshorts/loginPage.png)
+![Login Page](../Expense-Tracker/frontend/screenshorts/loginPage.png)
 
 ### Sign Up Page
-![Sign Up Page](./screenshorts/signUpPage.png)
+![Sign Up Page](../Expense-Tracker/frontend/screenshorts/signUpPage.png)
 
-## License
 
-This project is licensed under the MIT License.
-
----
-
-**Developed by Manish Kumar and contributors.**
+**Developed by Manish Kumar.**
