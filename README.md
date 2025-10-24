@@ -117,33 +117,33 @@ frontend/
 ## Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](../Expense-Tracker/frontend/screenshorts/dashboard-overview.png)
-![Dashboard Overview](../Expense-Tracker/frontend/screenshorts/dashboard-overview1.png)
-![Dashboard Overview](../Expense-Tracker/frontend/screenshorts/dashboard-overview2.png)
+![Dashboard Overview](./frontend/screenshorts/dashboard-overview.png)
+![Dashboard Overview](./frontend/screenshorts/dashboard-overview1.png)
+![Dashboard Overview](./frontend/screenshorts/dashboard-overview2.png)
 
 ### All Income
-![All Income](../Expense-Tracker/frontend/screenshorts/incomeTransactions.png)
+![All Income](./frontend/screenshorts/incomeTransactions.png)
 
 ### Income Chart
-![Income Chart](../Expense-Tracker/frontend/screenshorts/incomeChart.png)
+![Income Chart](./frontend/screenshorts/incomeChart.png)
 
 ### Add Income
-![Add Income](../Expense-Tracker/frontend/screenshorts/addIncome.png)
+![Add Income](./frontend/screenshorts/addIncome.png)
 
 ### All Expenses
-![All Expenses](../Expense-Tracker/frontend/screenshorts/expenseTransaction.png)
+![All Expenses](./frontend/screenshorts/expenseTransaction.png)
 
 ### Expenses Chart
-![Expenses Chart](../Expense-Tracker/frontend/screenshorts/expenseChart.png)
+![Expenses Chart](./frontend/screenshorts/expenseChart.png)
 
 ### Add Expenses
-![Add Expenses](../Expense-Tracker/frontend/screenshorts/addExpense.png)
+![Add Expenses](./frontend/screenshorts/addExpense.png)
 
 ### Login Page
-![Login Page](../Expense-Tracker/frontend/screenshorts/loginPage.png)
+![Login Page](./frontend/screenshorts/loginPage.png)
 
 ### Sign Up Page
-![Sign Up Page](../Expense-Tracker/frontend/screenshorts/signUpPage.png)
+![Sign Up Page](./frontend/screenshorts/signUpPage.png)
 
 
 **Developed by Manish Kumar.**
